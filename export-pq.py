@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SW9hEX65Y9Y620vp49RMPNvree19PvDJ
 """
 
-!git clone https://github.com/nuvita97/project-quotation
+# !git clone https://github.com/nuvita97/project-quotation
 
 from google.colab import files
 from openpyxl import Workbook, load_workbook
